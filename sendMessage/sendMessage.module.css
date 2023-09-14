@@ -1,0 +1,29 @@
+.button {
+	width: 130px;
+	height: 45px;
+	border-radius: 8px;
+	border: transparent;
+	font-size: 1em;
+	font-family: inherit;
+	color: #ffffff;
+	background-color: #00875f;
+	padding: 0 20px;
+}
+
+input {
+	width: 800px;
+	height: 45px;
+	border-radius: 20px;
+	background-color: #f5edf7;
+	border: none;
+	border: transparent;
+	font-size: 1em;
+	font-family: inherit;
+	color: #372d3b;
+	padding-left: 20px;
+	margin-right: 20px;
+}
+
+.svg{
+	margin-top: 10px;
+}
