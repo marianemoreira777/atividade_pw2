@@ -1,0 +1,17 @@
+.container{
+    margin: 0;
+    padding: 0;
+    text-align: start;
+}
+
+h1{
+    font-size: 2.5em;
+}
+span{
+    color: #864293;
+}
+
+p{
+    font-size: 2em;
+    margin-top: -10px;
+}
